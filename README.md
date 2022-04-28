@@ -1,2 +1,5 @@
 # Data-Analytics-Project
-My Project focuses on data analysis in relation to a Healthcare Data set regarding Life expectancy.
+My Project focuses on data analysis in relation to a Healthcare Data set regarding Life expectancy and the factors which impact it and a country overall. I have implemented a variety of techniques including, Excel (formulas and functions), Power BI and SQL to showcase all the information collected. 
+In regards to the data and Excel, focusing on just one factor was difficut as a lot of information was important to understanding how high or low a countries life expectancy is. So i started to look for trends within the health issues and diseases.
+I was able to find that the higher a countries life expectancy, the lower the adult mortality rate was. However many countries which had a high alcohol rate still seemed to have a high lfie expectancy, proving that it could be related to the year and that as the years go up, deaths relating to alcohol decrease, with countries developing their healthcare system. It could also be highlighted that the data set had a lot of problems with repeated countries showing up, so i highlighted that aswell. 
+I was also able to notice the trends in which countries had the highest levels of Hepatitis B and how that contrasts to the life expectancy
